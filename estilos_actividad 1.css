@@ -1,0 +1,27 @@
+.new_aumento
+{
+    font-size: 45px;
+}
+.aumento
+{
+    font-size: 30px;
+}
+
+.new_color
+{
+    background-color:beige;
+    font-size: 25px;
+}
+    body
+    {
+    background-color:antiquewhite;
+    }
+
+
+
+
+table,th,td{
+    border: 1px solid black;
+    border-collapse:collapse ;
+    
+}
